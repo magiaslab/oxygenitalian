@@ -20,6 +20,6 @@ Lista delle risorse:
 * [Easy Post per Woocommerce 2 ](https://jsfiddle.net/gibsonion/09tqyL5u/7/?fbclid=IwAR0635bFUPfRs5X6AvzfSuZ6XfufsSRSfY767-ufJ339jiG0PvYYyLtybvw) template php e css per woocommerce con oxygen
 
 
-Se vuoi aggiungere risorse lo puoi fare tramite la repository su <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous"> [GitHub ](https://github.com/magiaslab/oxygenitalian)
+Se vuoi aggiungere risorse lo puoi fare tramite la repository su  [GitHub ](https://github.com/magiaslab/oxygenitalian)
 
 
