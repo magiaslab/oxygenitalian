@@ -18,7 +18,7 @@ Lista delle risorse:
 * [CodeSnippet](https://wordpress.org/plugins/code-snippets/) altro utile plugin per aggiungere snippet di codice al nostro WP
 * [EasyPost per Woocommerce 1](https://jsfiddle.net/gibsonion/09tqyL5u/5/?fbclid=IwAR0nUtr-xiZJso7xplvcReFPFF2Mm0Aad3k4K6zTM1aoRuG-RPfyh6RO0yc) template php e css per woocommerce con oxygen
 * [Easy Post per Woocommerce 2 ](https://jsfiddle.net/gibsonion/09tqyL5u/7/?fbclid=IwAR0635bFUPfRs5X6AvzfSuZ6XfufsSRSfY767-ufJ339jiG0PvYYyLtybvw) template php e css per woocommerce con oxygen
-
+* Nuova risorsa
 
 Se vuoi aggiungere risorse lo puoi fare tramite la repository su  [GitHub ](https://github.com/magiaslab/oxygenitalian)
 
