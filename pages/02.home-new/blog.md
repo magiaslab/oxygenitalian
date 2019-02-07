@@ -22,6 +22,3 @@ display_post_summary:
     enabled: false
 ---
 
-hero_classes: text-light title-h1h2 parallax overlay-dark-gradient hero-large
-hero_image:![](5570%20copia.jpg)
-hero_align: center
