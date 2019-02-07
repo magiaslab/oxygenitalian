@@ -2,7 +2,7 @@
 title: 'Home New'
 date: '08:00 07-02-2019'
 hide_git_sync_repo_link: false
-hero_classes: hero-fullscreen
+hero_classes: 'hero-fullscreen '
 hero_image: '5570 copia.jpg'
 blog_url: /blog
 show_sidebar: true
